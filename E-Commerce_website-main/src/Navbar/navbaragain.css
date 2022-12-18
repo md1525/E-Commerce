@@ -1,0 +1,35 @@
+.nav1_container{
+    background-color:#232F3E;
+    display: flex;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    
+    align-items: center;
+    
+    
+    font-size: 18px;
+}
+.nav_first{
+    color: white;
+    padding-right: 9px;
+}
+.nav_left{
+    display: flex;
+    color: white;
+    
+}
+.nav_left >p{
+    margin-left: 9px;
+    margin-right: 9px;
+    font-size: 17px;
+    padding: 4px 5px;
+}
+.nav_left >p:hover{
+    border: 1px solid white;
+    
+}
+.links{
+    text-decoration: none;
+    color: white;
+}

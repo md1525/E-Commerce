@@ -1,0 +1,48 @@
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+}
+.apistyle{
+    padding-left: 3%;
+    background-color: whitesmoke;
+    padding-right: 3%;
+   
+    
+}
+.textstyle{
+    font-weight: bold;
+    font-size: 20px;
+}
+.Buy_Button{
+    border-radius: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 5%;
+    color: black;
+    font-size: 15px;
+    background-color: RGB(255, 153, 0);
+    border-color: RGB(255, 153, 0);
+}
+.Add_cart{
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 5%;
+    color: black;
+    font-size: 15px;
+    background-color: RGB(242, 169, 0);
+    border-color: RGB(242, 169, 0);
+    
+}
+.containertitle_design{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 5px;
+   
+}

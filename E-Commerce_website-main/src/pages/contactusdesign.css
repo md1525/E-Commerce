@@ -1,0 +1,42 @@
+.main_box{
+    
+    background-color: RGB(55, 71, 90);
+    color: white;
+   padding-left: 15%;
+   padding-right: 15%;
+   padding-top: 10px;
+  
+}
+.cona{
+  padding-left: 40%;
+}
+.field{
+    padding-left: 15%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.pstyle{
+    padding-top: 10px;
+}
+.button{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   margin-left: 40%;
+   margin-top: 10px;
+   font-size: 16px;
+   background-color: RGB(254, 189, 105);
+   font-weight: bold;
+}
+.subject{
+    height: 90px;
+    width: 80%;
+    border-radius: 15px;
+}
+.basic{
+    width: 80%;
+    height: 25px;
+    border-radius: 10px;
+}
+

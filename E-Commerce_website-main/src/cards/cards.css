@@ -1,0 +1,45 @@
+.card_container{
+    background-color: white;
+    width:380px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin-right: 9px;
+    margin-left: 17px;
+    margin-bottom: 20px;
+    
+}
+.l1{
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+.card1{
+    padding-top: 11px;
+    padding-right: 11px;
+   
+    
+}
+.onclick{
+    padding-top: 20px;
+    color:darkcyan ;
+}
+.home_furnish{
+    align-items: center;
+    margin-left: 13%;
+    margin-bottom: 20px;
+}
+.main_div{
+    margin-left: 95px;
+}
+.link{
+    text-decoration: none;
+    color:darkcyan
+}
+.jewellery{
+    width: 300px;
+}
+.cloth{
+    width: 380px;
+    height: 300px;
+}

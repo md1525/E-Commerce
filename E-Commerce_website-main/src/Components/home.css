@@ -1,0 +1,21 @@
+.main_body{
+    
+    border-radius: 10px;
+    background-color: whitesmoke;
+    
+}
+.image1{
+width: 100%;
+}
+.navtotop{
+    background-color: RGB(55, 71, 90);
+    color: white;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.linkss{
+    text-decoration: none;
+    color: white;
+}
+

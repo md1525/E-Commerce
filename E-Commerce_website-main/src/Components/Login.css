@@ -1,0 +1,70 @@
+.t-1 {
+
+    width: 100%;
+    padding: 12px 20px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.t-2{
+    width: 100%;
+    background-color: blue;
+    color: white;
+    padding: 14px 20px;
+    margin: 6px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+.t-2:hover{
+    background-color: black;
+}
+  
+
+.g-button{
+  margin-top: 20px;
+    margin-left: 100px;
+    height: 40px !important;
+    line-height: 40px !important;
+    font-size: 15px ;
+    margin-bottom: 20px;
+    
+  }
+
+
+.box {
+  border-radius: 10px;
+  
+  margin-left: 500px;
+  margin-right: 500px;
+  
+  height: 800px;
+  border: 3px solid #dfdfdf;
+  background-color:wheat;
+  display:flexbox;
+  justify-content: center;
+  
+  padding: 10px;
+}
+.imagedesign{
+  width: 100%;
+}
+.title{
+  text-align: center;
+  padding-bottom: 20px ;
+}
+.term{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.viewpage{
+  background-color: whitesmoke;
+  background-image: url("https://www.thehindubusinessline.com/companies/yzs1ny/article65486610.ece/alternates/LANDSCAPE_1200/IMG_BL17ECOMM_5_1_QK90QBSR.jpg");
+  
+}
+  
